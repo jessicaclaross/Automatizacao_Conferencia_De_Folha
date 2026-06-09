@@ -1,0 +1,34 @@
+﻿Motorista;Data;Tipo;Horário;Motivo;Criticidade
+30060391 - EDIELSON OLIVEIRA DOS SANTOS;02/06;Batida Faltante;00:00 | 13:30 | 20:51 | 21:21;Ausência de: INIC;Alta
+03202554 - JUSCELINO BRAZ DA CRUZ;02/06;Sem Intervalo;INIC: 04:30, FIM: 10:30;Intervalo não registado (---);Média
+03202586 - FERNANDO DE AVILA SANTOS;02/06;Sem Intervalo;INIC: 01:30, FIM: 14:28;Intervalo não registado (---);Média
+03202677 - JOAO CAETANO DA SILVA FILHO;02/06;Sem Intervalo;INIC: 03:34, FIM: 14:40;Intervalo não registado (---);Média
+03202789 - APARECIDO IDERLAN CASTRO E SILVA;02/06;Sem Intervalo;INIC: 03:37, FIM: 13:01;Intervalo não registado (---);Média
+03601204 - CICERO RODRIGUES DE MOURA;02/06;Sem Intervalo;INIC: 02:54, FIM: 12:51;Intervalo não registado (---);Média
+30002433 - JOSE ERIVALDO DOS SANTOS;02/06;Sem Intervalo;INIC: 03:47, FIM: 12:41;Intervalo não registado (---);Média
+30008248 - FABIO HAJ TORREZANI;02/06;Sem Intervalo;INIC: 05:06, FIM: 12:01;Intervalo não registado (---);Média
+30008251 - HELDER LUIZ MENDES DA SILVA;02/06;Sem Intervalo;INIC: 14:30, FIM: 01:00;Intervalo não registado (---);Média
+30016803 - NOEME DE SOUSA RASPANTE;02/06;Sem Intervalo;INIC: 03:57, FIM: 07:32;Intervalo não registado (---);Média
+30017485 - DEVANIR OLIVEIRA SANTOS;02/06;Sem Intervalo;INIC: 04:47, FIM: 09:39;Intervalo não registado (---);Média
+30021946 - SILVIO FRANCISCO FERREIRA;02/06;Sem Intervalo;INIC: 01:30, FIM: 10:32;Intervalo não registado (---);Média
+30031644 - ANDRE PEREIRA LIMA;02/06;Sem Intervalo;INIC: 04:06, FIM: 14:51;Intervalo não registado (---);Média
+30060450 - EDUARDO RIBEIRO DA SILVA;02/06;Sem Intervalo;INIC: 05:02, FIM: 09:37;Intervalo não registado (---);Média
+30060482 - APARECIDO CAMPOS DA SILVA;02/06;Sem Intervalo;INIC: 05:27, FIM: 12:00;Intervalo não registado (---);Média
+30060572 - BRUNO FERNANDES DOS SANTOS;02/06;Sem Intervalo;INIC: 04:49, FIM: 15:05;Intervalo não registado (---);Média
+30060585 - FERNANDO BATISTA DOS SANTOS;02/06;Sem Intervalo;INIC: 13:06, FIM: 22:40;Intervalo não registado (---);Média
+30060619 - CARLOS ROBERTO DA SILVA;02/06;Intervalo muito longo;I.INT: 16:15 / F.INT: 19:19;Intervalo de 184 minutos (Acima de 2h);Média
+30060630 - NIVALDO AVILA BARROS;02/06;Sem Intervalo;INIC: 13:36, FIM: 22:34;Intervalo não registado (---);Média
+30060664 - CLAUDINEI DE PAULA LANA;02/06;Intervalo muito longo;I.INT: 13:50 / F.INT: 16:38;Intervalo de 168 minutos (Acima de 2h);Média
+30060718 - MANOEL SIPRIANO DA SILVA;02/06;Sem Intervalo;INIC: 03:57, FIM: 09:42;Intervalo não registado (---);Média
+30060848 - HENDESON ANDRADE DE SOUZA;02/06;Sem Intervalo;INIC: 13:30, FIM: 22:53;Intervalo não registado (---);Média
+30060916 - ADRIANO ALVES QUIRINO;02/06;Intervalo muito longo;I.INT: 14:25 / F.INT: 20:09;Intervalo de 344 minutos (Acima de 2h);Média
+30060942 - JOSE MARCOS ALVES DA SILVA;02/06;Sem Intervalo;INIC: 03:46, FIM: 13:41;Intervalo não registado (---);Média
+30060990 - GABRIEL DA COSTA OLIVEIRA;02/06;Sem Intervalo;INIC: 05:02, FIM: 10:20;Intervalo não registado (---);Média
+30060997 - ERISVALDO VALTER DA SILVA;02/06;Sem Intervalo;INIC: 12:15, FIM: 22:46;Intervalo não registado (---);Média
+30061002 - FRANCISCO RHONYS OLIVEIRA DE SOUZA;02/06;Sem Intervalo;INIC: 03:42, FIM: 12:44;Intervalo não registado (---);Média
+30061016 - LUCIANO SEVERINO DE LIMA;02/06;Sem Intervalo;INIC: 04:54, FIM: 10:06;Intervalo não registado (---);Média
+30061017 - ANTONIO OSORIO FARIA;02/06;Intervalo muito longo;I.INT: 04:23 / F.INT: 11:41;Intervalo de 438 minutos (Acima de 2h);Média
+30061029 - MARCO ANTONIO DUARTE SANTANA;02/06;Sem Intervalo;INIC: 16:52, FIM: 22:46;Intervalo não registado (---);Média
+30061146 - RAFAEL RODRIGUES BEZERRA;02/06;Intervalo muito longo;I.INT: 13:48 / F.INT: 21:03;Intervalo de 435 minutos (Acima de 2h);Média
+30061156 - ALEXANDRE MARCOS;02/06;Sem Intervalo;INIC: 13:15, FIM: 21:35;Intervalo não registado (---);Média
+30061184 - PAULO CASSETARI;02/06;Sem Intervalo;INIC: 14:30, FIM: 02:00;Intervalo não registado (---);Média
