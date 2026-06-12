@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+Relatorio_Falhas_Ponto.csv
+Relatorio_Falhas_Ponto.xlsx
+.vscode/settings.json

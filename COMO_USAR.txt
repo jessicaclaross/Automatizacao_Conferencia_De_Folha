@@ -1,0 +1,30 @@
+AUTOMATIZACAO PROCESSO FOLHA
+============================
+
+PASTA: Area de Trabalho\automatizacao_processo_folha
+
+
+COMO ABRIR A TELA COM BOTOES
+-----------------------------
+Opcao A — Duplo clique em INICIAR.bat
+   (fica dentro da pasta automatizacao_processo_folha)
+
+Opcao B — No VS Code:
+   1. Arquivo → Abrir Pasta → automatizacao_processo_folha
+   2. Abra o arquivo app.py
+   3. Clique no Play (triangulo) no canto superior direito
+
+
+O QUE FAZER NA TELA
+--------------------
+1. Escolher planilha CSV
+2. Analisar
+3. Exportar Excel (.xlsx)
+
+O Excel sai na mesma pasta da planilha:
+   Relatorio_Falhas_Ponto.xlsx
+
+
+PRIMEIRA VEZ
+------------
+pip install -r requirements.txt
