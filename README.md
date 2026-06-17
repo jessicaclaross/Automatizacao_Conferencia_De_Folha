@@ -1,4 +1,5 @@
 Automação de Conferência de Folha de Ponto
+![aplicacao](aplicacao.png)
 
 Objetivo:
 Automatizar a auditoria entre escala programada e folha de ponto, identificando inconsistências que podem impactar a folha de pagamento.
@@ -28,3 +29,6 @@ Excel
 
 Fluxo da Solução:
 ![Fluxograma](fluxograma.png)
+
+Tela inicial:
+![Tela](demonstracao.png)
